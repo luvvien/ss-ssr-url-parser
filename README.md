@@ -40,3 +40,9 @@ print(result)
 ## End
 
 That's all. Hope you have a fun to use.
+
+## Other
+
+### Online QRCode Generator For ss/ssr
+
+[ss-ssr-qrcode-generator](https://viencoding.com/ss-ssr-qrcode-generator)
